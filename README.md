@@ -1,6 +1,3 @@
--✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
--✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨\\\
--
 - 👋 Hi, I’m @alienape
 - 👀 I’m interested in process automation in real time events (PARTE) which I will further present.
 - 🌱 I’m currently learning python and github.
